@@ -1,8 +1,12 @@
 {
-  "API-Server": {
-    "protocol": "http",
-    "host": "184.172.233.10:30120"
-  },
-  "APIs": {
-  }
+"APIs": {
+"catalog": {
+"host": "lightblue-catalog-cameroncruickshank.mybluemix.net",
+"base_path": "/micro"
+},
+"customer": {
+"host": "lightblue-customer-cameroncruickshank.mybluemix.net",
+"base_path": "/micro"
+}
+}
 }
