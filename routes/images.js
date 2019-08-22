@@ -22,4 +22,3 @@ function renderErrorPage(function_input) {
 }
 
 module.exports = router;
-

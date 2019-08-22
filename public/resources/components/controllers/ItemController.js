@@ -7,4 +7,3 @@ app.controller('ItemController', ['$scope','$routeParams','BlueAPIService',funct
         console.log("Get Item Detail Error: " + error);
     });
 }]);
-

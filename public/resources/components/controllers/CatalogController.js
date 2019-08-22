@@ -7,4 +7,3 @@ app.controller('CatalogController', ['$scope','BlueAPIService',function($scope, 
         console.log("Get Inventory Error: " + error);
     });
 }]);
-

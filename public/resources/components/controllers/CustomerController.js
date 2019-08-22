@@ -7,4 +7,3 @@ app.controller('CustomerController', ['$scope','BlueAPIService',function($scope,
         console.log("Get Customer Profile Error: " + error);
     });
 }]);
-
